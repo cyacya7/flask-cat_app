@@ -1,5 +1,5 @@
 header {
-    background-color: #77d1f8;
+    background-color: #04fafa;
     height: 80px;
     margin: -8px;
     display: flex;
@@ -8,7 +8,7 @@ header {
 }
 
 .header-logo {
-    color: #fbfb08;
+    color: #fcf801;
     font-size: 25px;
     margin: 15px 25px;
 }
@@ -45,7 +45,7 @@ form {
 }
 
 footer {
-    background-color: #fcf004;
+    background-color: #fafa04;
     height: 110px;
     margin: -8px;
     position: relative;

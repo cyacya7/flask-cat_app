@@ -10,7 +10,7 @@ future
 gast
 grpcio
 gunicorn
-h5py
+h5py==3.11.0
 html5lib
 itsdangerous
 idna
@@ -28,7 +28,8 @@ requests
 scipy
 six
 tensorboard
-tensorflow-cpu
+tensorflow-cpu==2.17.0
 termcolor
 urllib3
 Werkzeug
+keras==3.4.1
